@@ -16,7 +16,7 @@ class people:
         print("%s 说: 我 %d 岁。" % (self.name, self.age))
 
 
-# 单继承示例
+# 单继承示例：
 class student(people):
     grade = ''
 
