@@ -151,3 +151,9 @@ Test1/.idea/Test1.iml
 Test1/.idea/workspace.xml
 
 .vscode
+
+Pytorch/demo1/hymenoptera_data/
+Pytorch/demo1/logs/
+Pytorch/demo1/dataset/
+Pytorch/demo1/p10/
+
