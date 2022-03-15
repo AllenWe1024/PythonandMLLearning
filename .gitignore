@@ -156,4 +156,21 @@ Pytorch/demo1/hymenoptera_data/
 Pytorch/demo1/logs/
 Pytorch/demo1/dataset/
 Pytorch/demo1/p10/
+Pytorch/demo1/dataloader/
+Pytorch/demo1/logs_maxpool/
+Pytorch/demo1/logs_relu/
+Pytorch/demo1/logs_seq/
+Pytorch/demo1/logs_train/
+Pytorch/demo1/vggmodel/
+Pytorch/demo1/logs_VGGtrain/
+Pytorch/demo1/imageNet/
+Pytorch/VGG/pytorch-vgg-cifar10/data/
+Pytorch/VGG/pytorch-vgg-cifar10/save_temp/
+Pytorch/demo1/imgs/
+
+
+
+
+
+
 
