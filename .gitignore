@@ -165,6 +165,7 @@ Pytorch/demo1/vggmodel/
 Pytorch/demo1/logs_VGGtrain/
 Pytorch/demo1/imageNet/
 Pytorch/VGG/pytorch-vgg-cifar10/data/
+Pytorch/VGG/pytorch-vgg-cifar10/save*/
 Pytorch/VGG/pytorch-vgg-cifar10/save_temp/
 Pytorch/demo1/imgs/
 

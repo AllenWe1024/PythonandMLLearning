@@ -12,6 +12,7 @@ import torch.utils.data
 import torchvision.transforms as transforms
 import torchvision.datasets as datasets
 import vgg
+import tensorboard
 
 model_names = sorted(name for name in vgg.__dict__
                      if name.islower() and not name.startswith("__")
