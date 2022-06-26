@@ -152,22 +152,22 @@ Test1/.idea/workspace.xml
 
 .vscode
 
-Pytorch/demo1/hymenoptera_data/
-Pytorch/demo1/logs/
-Pytorch/demo1/dataset/
-Pytorch/demo1/p10/
-Pytorch/demo1/dataloader/
-Pytorch/demo1/logs_maxpool/
-Pytorch/demo1/logs_relu/
-Pytorch/demo1/logs_seq/
-Pytorch/demo1/logs_train/
-Pytorch/demo1/vggmodel/
-Pytorch/demo1/logs_VGGtrain/
-Pytorch/demo1/imageNet/
-Pytorch/VGG/pytorch-vgg-cifar10/data/
-Pytorch/VGG/pytorch-vgg-cifar10/save*/
-Pytorch/VGG/pytorch-vgg-cifar10/save_temp/
-Pytorch/demo1/imgs/
+PytorchLearning/demo1/hymenoptera_data/
+PytorchLearning/demo1/logs/
+PytorchLearning/demo1/dataset/
+PytorchLearning/demo1/p10/
+PytorchLearning/demo1/dataloader/
+PytorchLearning/demo1/logs_maxpool/
+PytorchLearning/demo1/logs_relu/
+PytorchLearning/demo1/logs_seq/
+PytorchLearning/demo1/logs_train/
+PytorchLearning/demo1/vggmodel/
+PytorchLearning/demo1/logs_VGGtrain/
+PytorchLearning/demo1/imageNet/
+PytorchLearning/VGG/pytorch-vgg-cifar10/data/
+PytorchLearning/VGG/pytorch-vgg-cifar10/save*/
+PytorchLearning/VGG/pytorch-vgg-cifar10/save_temp/
+PytorchLearning/demo1/imgs/
 
 
 
